@@ -89,7 +89,7 @@ function App() {
         <p className="hero-descricao">
           Estudante de Ciência da Computação apaixonada por transformar linhas de código em soluções reais.
           Transito entre o desenvolvimento Front-End criando interfaces modernas e funcionais para web e mobile
-          e a automação no Back-End, onde gerencio fluxos de dados em sistemas ERP com Python. Sou uma entusiasta da tecnologia,
+          e a automação no Back-End, onde gerencio fluxos de dados em sistemas ERP. Sou uma entusiasta da tecnologia,
           sempre buscando aprender novas ferramentas e evoluir a cada projeto.
         </p>
         <div className="btn-container">
